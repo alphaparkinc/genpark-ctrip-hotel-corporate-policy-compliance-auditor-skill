@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill",
+  "version": "1.0.0",
+  "description": "GenPark Ctrip Hotel Corporate Policy Compliance Auditor - Automates enterprise travel policy validation, rate parity audits, and carbon ESG compliance.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "ctrip",
+    "corporate-travel",
+    "expense-compliance",
+    "hotel-parity",
+    "mcp"
+  ]
+}
